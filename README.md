@@ -6,3 +6,7 @@
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rhuan-aa&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rhuan-aa&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rhuan-aa&theme=tokyonight) 
 | :-: | :-: | :-: |
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rhuan-aa&theme=tokyonight" />
+</div>
