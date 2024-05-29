@@ -10,3 +10,5 @@
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rhuan-aa&theme=tokyonight" />
 </div>
+
+## Connection <img height="30" width="30" src="https://static.vecteezy.com/system/resources/thumbnails/018/923/768/small_2x/timeline-diagram-template-png.png" />
