@@ -12,3 +12,11 @@
 </div>
 
 ## Connection <img height="30" width="30" src="https://static.vecteezy.com/system/resources/thumbnails/018/923/768/small_2x/timeline-diagram-template-png.png" />
+<div style="display: inline_block"><br>
+  <a href="https://www.instagram.com/rhuan_aa/"><img align="center" src="https://img.shields.io/badge/Instagram-D62976?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rhuan-andrade-5b50ab302/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto: rhuanandrey@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+## Skills <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/4614/4614145.png" />
+<img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
