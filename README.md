@@ -2,11 +2,21 @@
  
 ## Skills <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/4614/4614145.png" />
 <div style="display: inline_block">
+ <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6009/6009939.png" />
+ <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" />
  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+</div>
+
+<div style="display: inline_block">
+ <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/8759/8759159.png" />
+ <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" />
+ <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+ <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 
 ## Github Status <img height="30" width="30" src="https://cdn-icons-png.freepik.com/512/5024/5024509.png" />
