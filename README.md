@@ -1,4 +1,4 @@
- <img src="header.png" />
+ <img src="novoheader.png" />
  
 ## Skills <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/4614/4614145.png" />
 <div style="display: inline_block">
