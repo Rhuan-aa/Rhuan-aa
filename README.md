@@ -33,10 +33,6 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rhuan-aa&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rhuan-aa&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rhuan-aa&theme=tokyonight) 
 | :-: | :-: | :-: |
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rhuan-aa&theme=tokyonight" />
-</div>
-
 ## Connection <img height="30" width="30" src="https://static.vecteezy.com/system/resources/thumbnails/018/923/768/small_2x/timeline-diagram-template-png.png" />
 <div style="display: inline_block"><br>
   <a href="https://www.instagram.com/rhuan_aa/"><img align="center" src="https://img.shields.io/badge/Instagram-D62976?style=for-the-badge&logo=instagram&logoColor=white"></a>
