@@ -13,6 +13,7 @@
  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
 <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+<img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 </div>
 
 <div style="display: inline_block">
