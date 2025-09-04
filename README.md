@@ -14,6 +14,8 @@
 <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
 <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+ <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodered/nodered-original.svg" />
+ <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
 </div>
 
 <div style="display: inline_block">
