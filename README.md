@@ -1,5 +1,16 @@
  <img src="novoheader.png" />
- 
+
+## About me <img height="30" width="30" src="https://avatars.githubusercontent.com/u/55929607?v=4" />
+Atualmente, sou graduando em **Engenharia de Software** no **Instituto Federal de São Paulo (IFSP)**, campus São Carlos, onde estou cursando o terceiro semestre. Minha trajetória na tecnologia é marcada por uma busca constante em unir a teoria acadêmica com a prática do mercado. Atuo como **Estagiário de Desenvolvimento Fullstack** na **Newgesti**, onde aplico conhecimentos em **Node-RED** para soluções de integração e desenvolvimento **Mobile** com **Flutter**. No ambiente mobile, tenho me aprofundado em arquiteturas que suportam operações com mapas e autênticação offline utilizando **SQLite** e módulos de atualização customizados.
+
+Minha base técnica é sólida no ecossistema Java, linguagem com a qual possuo maior afinidade e que utilizo como ferramenta principal em minha **Iniciação Científica**. Nesse projeto acadêmico, foco em gamificação para o ensino de computação, desenvolvendo bots para o jogo Truco utilizando **Java** e **Spring Boot**. Além disso, possuo experiência com tecnologias de mensageria como **WebSocket** e bancos de dados SQL (Postgres) e NoSQL (MongoDB), sempre buscando construir sistemas escaláveis e eficientes. Sou um entusiasta da resolução de problemas e estou sempre aberto a novos desafios que expandam meu horizonte no desenvolvimento de software.
+
+#### English Version <img height="20" width="20" align="center" src="https://static.vecteezy.com/system/resources/thumbnails/016/328/933/small/united-states-flat-rounded-flag-icon-with-transparent-background-free-png.png" />
+
+I am currently a **Software Engineering** student at the **Instituto Federal de São Paulo (IFSP)**, São Carlos campus, in my third semester. My career in technology is driven by a constant effort to bridge academic theory with real-world industry practice. I am currently a **Fullstack Development Intern** at **Newgesti**, where I apply **Node-RED** for integration solutions and **Mobile** development with **Flutter**. In the mobile sphere, I have been focusing on architectures that support map operations and offline authentication using **SQLite** and custom update modules.
+
+My technical foundation is rooted in the Java ecosystem, the language I am most comfortable with and my primary tool for my **Scientific Initiation** project. In this academic endeavor, I focus on gamification for computer science education by developing "Truco" (card game) bots using **Java** and **Spring Boot**. Furthermore, I have experience with messaging technologies like **WebSocket** and both SQL (**Postgres**) and NoSQL (**MongoDB**) databases, always striving to build scalable and efficient systems. I am a problem-solving enthusiast, always open to new challenges that expand my horizons in software development.
+
 ## Skills <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/4614/4614145.png" />
 <div style="display: inline_block">
  <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6009/6009939.png" />
