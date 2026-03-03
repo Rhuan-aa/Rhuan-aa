@@ -49,8 +49,8 @@ My technical foundation is rooted in the Java ecosystem, the primary tool for my
 
 ## Connection <img height="30" width="30" src="https://static.vecteezy.com/system/resources/thumbnails/018/923/768/small_2x/timeline-diagram-template-png.png" />
 <div style="display: inline_block"><br>
-  <a href="www.linkedin.com/in/rhuan-aa-boni"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "mailto: rhuanandrey@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/rhuan-aa-boni" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+ <a href = "mailto: rhuanandrey@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
